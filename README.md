@@ -14,7 +14,7 @@ by [Your First Name Last Name]
 
 ## Acknowledgments
 
-
+[Acknowledge all who have contributed to your final product]
 
 ## Table of Contents
 
