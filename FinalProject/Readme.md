@@ -17,46 +17,46 @@ in BibTex
 ## Part I: Summary
 [Mindmap Created by Whimisical]
 
-### Background and Motivation
+### 1. Background and Motivation
 
 Type here
 
-### Research Questions
+### 2. Research Questions
 
 Type here
 
-### Methods
+### 3. Methods
 
 Type here
 
-### Intellectual Merits
+### 4. Intellectual Merits
 
 Type here
 
-### Practical Impacts
+### 5. Practical Impacts
 
 Type here
 
 ## Part II: Critics 
 [Mindmap Created by Whimisical]
 
-### Economics for Computer Science: Incentives in Computer Science
+### 1. Economics for Computer Science: Incentives in Computer Science
 
 Type here
 
-### Computer Science for Economics: Practicality in Economics
+### 2. Computer Science for Economics: Practicality in Economics
 
 Type here
 
 ## Part III: Inspirations
 [Mindmap Created by Whimisical]
 
-### Interdisciplinary Research
+### 1. Interdisciplinary Research
 Type here
-### Research for Realworld Practices
+### 2. Research for Real-world Practices
 
 Type here
-### Future Professional Growth
+### 3. Future Professional Growth
 Type here
 
 ### References
