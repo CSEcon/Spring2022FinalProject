@@ -12,6 +12,8 @@ by [Your First Name Last Name]
 
 [Social Media Hyperlinks: LinkedIn, Twitter, and GitHub]
 
+## Acknowledgments
+
 
 
 ## Table of Contents
