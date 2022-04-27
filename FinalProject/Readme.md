@@ -13,4 +13,16 @@
 
 ## Part I: Summary
 
+### Background and Motivation
+
+### Research Questions
+
+### Methods
+
+### Intellectual Merits
+
+### Practical Impacts
+
+## Part II: Critics from the Perspects of Computer Science and Economics
+
 
