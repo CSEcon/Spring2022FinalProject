@@ -10,7 +10,7 @@ by [Your First Name Last Name]
 
 [Self-Introduction]
 
-[Social Media Hyperlink: LinkedIn, Twitter, and GitHub]
+[Social Media Hyperlinks: LinkedIn, Twitter, and GitHub]
 
 
 
