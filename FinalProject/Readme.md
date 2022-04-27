@@ -19,34 +19,60 @@ in BibTex
 
 ### Background and Motivation
 
+Type here
 
 ### Research Questions
 
+Type here
+
 ### Methods
+
+Type here
 
 ### Intellectual Merits
 
+Type here
+
 ### Practical Impacts
+
+Type here
 
 ## Part II: Critics 
 [Mindmap Created by Whimisical]
 
 ### Economics for Computer Science: Incentives in Computer Science
 
+Type here
+
 ### Computer Science for Economics: Practicality in Economics
+
+Type here
 
 ## Part III: Inspirations
 [Mindmap Created by Whimisical]
 
 ### Interdisciplinary Research
+Type here
 ### Research for Realworld Practices
-### Future Professional Growth
 
+Type here
+### Future Professional Growth
+Type here
 
 ### References
+Type here
 
 ### References in BibTex
 ```
-````
+
+
+
+
+
+
+
+
+
+```
 
 
